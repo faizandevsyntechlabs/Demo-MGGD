@@ -1,0 +1,6 @@
+{
+  "name": "MGGD Motion Generator Studio",
+  "description": "Professional MGGD Motion Graphics Generator Studio featuring deterministic frame seeking, Maker/Buyer workflows, live manifests, real PNG and video exports, and compliance validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
